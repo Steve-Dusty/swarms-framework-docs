@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "swarms",
-  "theme": "mint",
+  "theme": "aspen",
   "colors": {
     "primary": "#DC2626",
     "light": "#FFFFFF",
@@ -9,8 +9,8 @@
   },
   "favicon": "/logo.svg",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
   },
   "navbar": {
     "primary": {
